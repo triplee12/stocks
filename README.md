@@ -1,4 +1,4 @@
-# Algorithi=mic Trading
+# Algorithmic Trading
 
 - Algorithmic trading is using computers to make investment decisions.
 
@@ -9,8 +9,8 @@ Threr are many different types of algorithmic trading. The main difference is th
 - Here are some of the main players in the algorithmic trading landscape:
 
 1. Renaissance Technologies: $165b in AUM
-2. AQR Capital Management: 61b in AUM
-3. Citadel Securities: 32b in AUM
+2. AQR Capital Management: $61b in AUM
+3. Citadel Securities: $32b in AUM
 
 ## Algorithmic Trading And Python
 
